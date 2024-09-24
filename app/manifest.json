@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-api",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.9.9",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "537484c02ef32208e1f037fd93327206"
+    },
+    "README.md": {
+      "checksum": "15659923bfe23eed7ca4450ce1adbe41"
+    },
+    "app.py": {
+      "checksum": "9799c3b834b555cf02e5896ad2997674"
+    },
+    "prices.csv": {
+      "checksum": "e0bc27e3dd358c360863807e09079985"
+    }
+  }
+}
